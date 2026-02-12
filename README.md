@@ -1,6 +1,6 @@
 # AD23B1048_DLMI  
-## Project 1 – Brain Tumor Segmentation (Otsu vs Sauvola)
 
+## Project 1 – Brain Tumor Segmentation (Otsu vs Sauvola)
 
 ### Dataset
 
@@ -30,7 +30,7 @@
 ### Results
 
 | Method   | Dice Score | Jaccard Score |
-|-|||
+|----------|------------|---------------|
 | Otsu     | 0.098      | 0.053         |
 | Sauvola  | 0.069      | 0.037         |
 
