@@ -18,13 +18,9 @@
 
 #### Otsu Thresholding
 - Global threshold selection
-- Gaussian smoothing
-- Histogram-equalization
 
 #### Sauvola Thresholding
 - Local adaptive thresholding
-- Window-based mean & standard deviation
-- Gaussian smoothing applied
 
 
 ### Results
