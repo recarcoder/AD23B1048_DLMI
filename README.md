@@ -44,4 +44,3 @@
 ### Conclusion
 
 This shows that these processing techniques are not sufficient for accurate brain tumor segmentation.  
-Deep learning-based approaches are required for better analysis.
