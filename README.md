@@ -16,11 +16,9 @@
 
 ### Methods
 
-#### Otsu Thresholding
-- Global threshold selection
+- Otsu Thresholding - Global threshold selection
 
-#### Sauvola Thresholding
-- Local adaptive thresholding
+- Sauvola Thresholding - Local adaptive thresholding
 
 
 ### Results
