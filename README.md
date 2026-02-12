@@ -1,7 +1,6 @@
 # AD23B1048_DLMI  
 ## Project 1 – Brain Tumor Segmentation (Otsu vs Sauvola)
 
----
 
 ### Dataset
 
@@ -9,13 +8,11 @@
 - **Source:** https://www.kaggle.com/datasets/briscdataset/brisc2025  
 - **Task:** Binary Brain Tumor Segmentation  
 
----
 
 ### Evaluation
 - Dice Coefficient  
 - Jaccard Index (IoU)
 
----
 
 ### Methods
 
@@ -29,16 +26,14 @@
 - Window-based mean & standard deviation
 - Gaussian smoothing applied
 
----
 
 ### Results
 
 | Method   | Dice Score | Jaccard Score |
-|----------|------------|---------------|
+|-|||
 | Otsu     | 0.098      | 0.053         |
 | Sauvola  | 0.069      | 0.037         |
 
----
 
 ### Insights
 
@@ -48,7 +43,7 @@
 - MRI images contain intensity inhomogeneity and noise.
 - Adaptive thresholding (Sauvola) over-segments edges and produces noisy masks.
 
----
+
 
 ### Conclusion
 
