@@ -30,7 +30,7 @@
 ### Insights
 
 - Otsu performed slightly better than Sauvola.
-- Both methods produced very low accuracy.
+- Both methods produced very low accuracy(even with parameter tuning).
 - Tumor regions occupy a very small portion of the image.
 - MRI images contain noise.
 - Adaptive thresholding (Sauvola) over-segments edges and produces noisy masks.
