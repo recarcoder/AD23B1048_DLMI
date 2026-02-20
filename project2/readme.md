@@ -1,5 +1,6 @@
 **sauvola vs niblack**
 
+Dataset: https://www.kaggle.com/competitions/data-science-bowl-2018
 
 Niblack thresholding was more sensitive to local intensity variations and successfully detected most thin and low-contrast vessels. However, this high sensitivity also resulted in significant noise.
 
